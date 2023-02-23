@@ -3,7 +3,7 @@
 /**
  * _isupper - checks is a character is uppercase
  * @c: carrier integer variable
- * Written by :Desire
+ * Written by :Yvette
  * Return: 1 if true, 0 if false
  */
 
