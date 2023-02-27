@@ -4,7 +4,7 @@
  * puts_half - prints half of a string
  *
  * @str: string parameter input
- * Written by Desire
+ * Written by Yvette
  * Return: Nothing
 */
 
